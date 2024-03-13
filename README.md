@@ -1,4 +1,6 @@
 # Pulitor
+![OIG2 9R49oIZJf](https://github.com/MicoqE/PULITOR/assets/124099112/1f0eecdb-3bdb-4c9f-8592-60874c8e613b)
+
 
 # Description du projet
 Pulitor est un robot nettoyeur qui se déplace sur quatre roues et dispose d'un rouleau de balayage ainsi que d'un compartiment pour stocker les déchets collectés. Il est également équipé de capteurs, tels qu'un suiveur de ligne et un capteur à ultrasons, pour naviguer sans problème dans son environnement.
