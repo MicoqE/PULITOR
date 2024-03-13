@@ -8,7 +8,7 @@ Pulitor est un robot nettoyeur qui se déplace sur quatre roues et dispose d'un 
 - Éviter des obstacles
 - Ramasser des déchets
 - Nettoyer le sol
-- 
+
 # Liste du matériel
 - Carte de commande : Arduino Uno
 - Servomoteurs x6
