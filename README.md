@@ -19,7 +19,7 @@ Pulitor est un robot nettoyeur qui se déplace sur quatre roues et dispose d'un 
 - Corps du robot : Filament PLA
 
 ## Membres du groupe
-- AKPA Starker + 228 96 92 99 19
+- AKPAh Starker + 228 96 92 99 19
 - BANIZA Emmanuel +228 90 90 57 10
 - COQUEREL Michel +228 97 50 84 90
 - de Souza Naomie +228 97 70 57 54
