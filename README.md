@@ -42,9 +42,9 @@ Nous avons été confrontés suite a cela a certains problèmes comme : la forme
 - Alimentation : Battérie 
 - Corps du robot : Filament PLA
 
-## STRUCTURE
-![WhatsApp Image 2024-03-16 à 14 24 07_cf5e810d](https://github.com/MicoqE/PULITOR/assets/162813944/abda3ef3-13f0-4975-b852-6410e8e59807)
-
+## STRUCTURES
+1. ![WhatsApp Image 2024-03-16 à 14 24 07_cf5e810d](https://github.com/MicoqE/PULITOR/assets/162813944/abda3ef3-13f0-4975-b852-6410e8e59807)
+2. 
 
 ## Membres du groupe
 - AKPAH Starker +228 96 92 99 19
