@@ -22,6 +22,8 @@ Nous avons été confrontés suite a cela a certains problèmes comme : la forme
 ![WhatsApp Image 2024-03-16 à 14 20 46_e20fb014](https://github.com/MicoqE/PULITOR/assets/162813944/9809015b-4548-48a0-9293-bbb72fa1548b)
 
 ### Version finale
+![IMG-20240319-WA0002](https://github.com/MicoqE/PULITOR/assets/124099112/7dc76939-a493-4b33-a25e-3e57c6e45b39)
+
 ## Avancement du projet 
 Étant confronté a des obstacles le robot sera donc un robot nettoyeur usant d'un moteur DC 3-6v et d'un contrôleur puisqu il offre une plus grande vitesse et une puissance a défaut de la précision fourni par le servomoteur. Il sera doté d'un système rotatif ou de celui des essuies glace.
 
@@ -42,10 +44,17 @@ Nous avons été confrontés suite a cela a certains problèmes comme : la forme
 - Alimentation : Battérie 
 - Corps du robot : Filament PLA
 
-## STRUCTURES
+## Plan (Chronologiquement)
 ### 1.
 ![WhatsApp Image 2024-03-16 à 14 24 07_cf5e810d](https://github.com/MicoqE/PULITOR/assets/162813944/abda3ef3-13f0-4975-b852-6410e8e59807)
-
+### 2.
+![IMG-20240319-WA0006](https://github.com/MicoqE/PULITOR/assets/124099112/958317d0-8526-41e4-8646-8aeda475477d)
+### 3.
+![IMG-20240319-WA0005](https://github.com/MicoqE/PULITOR/assets/124099112/b30201a9-4475-4336-be94-c31a87027067)
+### 4.
+![IMG-20240319-WA0003](https://github.com/MicoqE/PULITOR/assets/124099112/555f11ef-13fa-4b75-9a8b-7e788d38cede)
+### 5.
+![IMG-20240319-WA0002](https://github.com/MicoqE/PULITOR/assets/124099112/ca43becb-10c5-45d4-83aa-b7da1a658441)
 
 ## Membres du groupe
 - AKPAH Starker +228 96 92 99 19
