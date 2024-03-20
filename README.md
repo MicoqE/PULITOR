@@ -25,7 +25,10 @@ Nous avons été confrontés suite a cela a certains problèmes comme : la forme
 ![IMG-20240319-WA0002](https://github.com/MicoqE/PULITOR/assets/124099112/7dc76939-a493-4b33-a25e-3e57c6e45b39)
 
 ## Avancement du projet 
+### (16/03/24) 
 Étant confronté a des obstacles le robot sera donc un robot nettoyeur usant d'un moteur DC 3-6v et d'un contrôleur puisqu il offre une plus grande vitesse et une puissance a défaut de la précision fourni par le servomoteur. Il sera doté d'un système rotatif ou de celui des essuies glace.
+### (18/03/24) 
+Après avoir rencontre des problèmes avec le contrôle de 6 moteurs, il fu décidé de n'utiliser que 2 moteurs pour les roues arrière et les 2 autres pour les disques de nettoyages; les roues avant seront juste des roues fol.
 
 ## Fonctionnalité de bases 
 - Suivre des lignes
