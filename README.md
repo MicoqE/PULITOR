@@ -29,6 +29,12 @@ Nous avons été confrontés suite a cela a certains problèmes comme : la forme
 Étant confronté a des obstacles le robot sera donc un robot nettoyeur usant d'un moteur DC 3-6v et d'un contrôleur puisqu il offre une plus grande vitesse et une puissance a défaut de la précision fourni par le servomoteur. Il sera doté d'un système rotatif ou de celui des essuies glace.
 ### (18/03/24) 
 Après avoir rencontre des problèmes avec le contrôle de 6 moteurs, il fu décidé de n'utiliser que 2 moteurs pour les roues arrière et les 2 autres pour les disques de nettoyages; les roues avant seront juste des roues fol.
+### (19/03/24)
+Nous avons commencer à tester les circuits avec les capteurs à ultrasons et des moteurs avec le shield L293D
+![WhatsApp Image 2024-03-20 à 01 10 45_f5a0f736](https://github.com/MicoqE/PULITOR/assets/124099112/ab63b6a5-475d-4187-9545-e1cb816292af)
+![WhatsApp Image 2024-03-20 à 01 10 45_176bb9a8](https://github.com/MicoqE/PULITOR/assets/124099112/bdfd6237-e22c-431c-8ef6-063a2c25232d)
+![WhatsApp Image 2024-03-20 à 01 10 46_91b5dc45](https://github.com/MicoqE/PULITOR/assets/124099112/f725da0a-bfd1-4c8c-8ea5-1a5ecedecdf0)
+
 
 ## Fonctionnalité de bases 
 - Suivre des lignes
