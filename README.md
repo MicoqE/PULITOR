@@ -1,20 +1,31 @@
 # Pulitor
 ![OIG2 9R49oIZJf](https://github.com/MicoqE/PULITOR/assets/124099112/1f0eecdb-3bdb-4c9f-8592-60874c8e613b)
 
-Dans le cadre de la préparation de l'Arduino's days 2024 au Lycée international cours lumière/ESEO nous avons eu à choisir un projet à réaliser.
-A la suite de la première journée (Samedi 09 mars 2024) , nous avions donc eu à choisir parmi quelques propositions d'idées tels que :
-* Une poubelle mobile
-* Un bras robotique
-* Un feu tricolore bloqueur
-* Un arroseur automatique
-* Un robot nettoyeur
+Dans le cadre de la préparation des Arduino Days 2024 au Lycée International Cours Lumière / ESEO, nous avons eu à choisir un projet parmi plusieurs propositions d'idées. Après la première journée (samedi 9 mars 2024), nous avons sélectionné les concepts suivants :
+
+1. Poubelle mobile
+2. Bras robotique
+3. Feu tricolore bloqueur
+4. Arroseur automatique
+5. Voiture nettoyeuse
+
 ![WhatsApp Image 2024-03-21 à 18 01 02_dea93830](https://github.com/MicoqE/PULITOR/assets/162813944/f1114fd0-c2e6-4f1a-9b13-bf65a3d8975f)
 
-Après plusieurs heures de discutions nous nous sommes donc finalement entendus sur le robot nettoyeur dont le nom est PULITOR qui viens de l'italien et signifie "Netoyeur".
+Après de nombreuses délibérations, nous avons décidé de ne retenir aucune des idées initiales et de repartir à zéro. Malgré nos divergences, plusieurs heures de réflexion ont finalement abouti à un consensus : la création d'un robot nettoyeur baptisé "PULITOR". Ce nom évoque à la fois l'efficacité et la propreté, et nous sommes impatients de voir ce projet prendre forme !
+
 
 ## Description du projet initial
-Au début Pulitor était un robot nettoyeur qui se déplace sur quatre roues et dispose d'un rouleau de balayage ainsi que d'un compartiment pour stocker les déchets collectés. Il était également équipé de capteurs, tels qu'un suiveur de ligne et un capteur à ultrasons, pour se déplacer sans problème dans son environnement.
-Nous avons été confrontés suite a cela a certains problèmes comme : la forme du robot ; ses différentes fonctions ; le type de nettoyage, les différents composants à utiliser ; le nombre de roue, la présentation, la structure et etc.
+Au début, Pulitor était un robot nettoyeur qui se déplace sur quatre roues. Il est équipé d'un rouleau pour nettoyer les tâches. Il est doté de *capteurs, tels qu'un **suiveur de ligne* et un *capteur à ultrasons*, qui lui permettent de se déplacer sans problème dans son environnement.
+
+Cependant, nous avons été confrontés à plusieurs problèmes lors de sa conception :
+
+1. *La forme du robot* : Nous avons dû réfléchir à la meilleure configuration pour garantir une efficacité maximale tout en optimisant l'espace.
+2. *Les différentes fonctions* : Quelles tâches spécifiques Pulitor devrait-il accomplir ? Devrait-il se limiter au nettoyage ou avoir d'autres fonctionnalités ?
+3. *Le type de nettoyage* : Quels types de surfaces Pulitor devrait-il nettoyer ? Sol, murs, plafonds ?
+4. *Les différents composants à utiliser* : Quels matériaux et composants électroniques sont les plus adaptés pour sa construction ?
+5. *Le nombre de roues* : Quatre roues sont-elles suffisantes, ou devrions-nous envisager une configuration différente ?
+6. *La présentation et la structure* : Comment rendre Pulitor attrayant et ergonomique pour les utilisateurs ?
+Ces défis ont nécessité des discussions approfondies et des ajustements pour créer un robot nettoyeur performant et fonctionnel. Nous sommes impatients de voir Pulitor en action !
 
 ### Proposition de version
 ![WhatsApp Image 2024-03-16 à 13 57 22_18ca7ea2](https://github.com/MicoqE/PULITOR/assets/162813944/97d1fa20-4bc4-41b5-8a4b-92372f3962b0)
@@ -35,22 +46,17 @@ Nous avons commencer à tester les circuits avec les capteurs à ultrasons et de
 ![WhatsApp Image 2024-03-20 à 01 10 46_91b5dc45](https://github.com/MicoqE/PULITOR/assets/124099112/f725da0a-bfd1-4c8c-8ea5-1a5ecedecdf0)
 
 
-## Fonctionnalité de bases 
-- Suivre des lignes
-- Éviter des obstacles
-- Ramasser des déchets
-
-## Fonctionnalités gardées
-- Nettoyage du sol
-- Éviter des obstacles
+| Fonctionnalité de bases |  Fonctionnalités gardées | Liste des matériaux             |
+|-------------------------|--------------------------|---------------------------------|
+|- Suivre des lignes      | - Nettoyage du sol       | - Carte de commande: Arduino    |
+|- Éviter des obstacles   | - Eviter des obstacles   | - 4 moteurs DC 3-6v             |
+|- Ramasser des déchets   |                          | - Shield L293D                  |
+|                         |                          | - 3 capteur à ultrason: HC-SR04 |
+|                         |                          | - Alimentation: Battérie        |
+|                         |                          | - Corps du robot: Filament PLA  | 
 
 ## Liste des matériaux 
-- Carte de commande : Arduino Uno
-- 4 Moteurs DC 3-6v
-- Shield L293D
-- 3 Capteur à ultrason : HC-SR04
-- Alimentation : Battérie 
-- Corps du robot : Filament PLA
+
 
 ## Plan (Chronologiquement)
 ### 1.
