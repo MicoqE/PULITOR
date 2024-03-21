@@ -8,10 +8,9 @@ A la suite de la première journée (Samedi 09 mars 2024) , nous avions donc eu 
 * Un feu tricolore bloqueur
 * Un arroseur automatique
 * Un robot nettoyeur
+![WhatsApp Image 2024-03-21 à 18 01 02_dea93830](https://github.com/MicoqE/PULITOR/assets/162813944/f1114fd0-c2e6-4f1a-9b13-bf65a3d8975f)
 
-![WhatsApp Image 2024-03-16 à 11 29 24_420e05ff](https://github.com/MicoqE/PULITOR/assets/162813944/a21e2c35-0f43-4ae3-aa9f-9f27c773e2b9)
-
-Après plusieurs heures de discutions nous nous sommes donc finalement entendus sur le robot nettoyeur dont le nom est PULITOR qui viens de l'italien et signifie "Netoeur".
+Après plusieurs heures de discutions nous nous sommes donc finalement entendus sur le robot nettoyeur dont le nom est PULITOR qui viens de l'italien et signifie "Netoyeur".
 
 ## Description du projet initial
 Au début Pulitor était un robot nettoyeur qui se déplace sur quatre roues et dispose d'un rouleau de balayage ainsi que d'un compartiment pour stocker les déchets collectés. Il était également équipé de capteurs, tels qu'un suiveur de ligne et un capteur à ultrasons, pour se déplacer sans problème dans son environnement.
