@@ -66,9 +66,10 @@ https://github.com/MicoqE/PULITOR/assets/162813944/cd232e67-9ef4-480d-9d1b-43219
 - Nettoyage du sol
 - Éviter des obstacles
 
-## Liste des matériaux 
-
-- Carte de commande :Arduino Uno
+|## Liste des matériaux ---------||
+|---------------------------------|
+--------------------|-------------|
+|-Carte de commande| :Arduino Uno |
 - 4 Moteurs: DC 3-6v
 - Shield : L293D
 - 3 Capteur à ultrason : HC-SR04
