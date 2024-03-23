@@ -9,9 +9,9 @@ A la suite de la première journée (Samedi 09 mars 2024) , nous avions donc eu 
 * Un arroseur automatique
 * Un robot nettoyeur
 
-![WhatsApp Image 2024-03-21 à 18 01 02_dea93830](https://github.com/MicoqE/PULITOR/assets/162813944/f1114fd0-c2e6-4f1a-9b13-bf65a3d8975f)
 
-Après plusieurs heures de discutions nous nous sommes donc finalement entendus sur le robot nettoyeur dont le nom est PULITOR qui viens de l'italien et signifie "Netoyeur".
+
+Après plusieurs heures de discussions nous nous sommes donc finalement entendus sur le robot nettoyeur dont le nom est PULITOR qui viens de l'italien et signifie "Netoyeur".
 
 ## Description du projet initial
 Au début Pulitor était un robot nettoyeur qui se déplace sur quatre roues et dispose d'un rouleau de balayage ainsi que d'un compartiment pour stocker les déchets collectés. Il était également équipé de capteurs, tels qu'un suiveur de ligne et un capteur à ultrasons, pour se déplacer sans problème dans son environnement.
@@ -28,7 +28,7 @@ Nous avons été confrontés suite a cela a certains problèmes comme : la forme
 ### (16/03/24) 
 Étant confronté a des obstacles le robot sera donc un robot nettoyeur usant d'un moteur DC 3-6v et d'un contrôleur puisqu il offre une plus grande vitesse et une puissance a défaut de la précision fourni par le servomoteur. Il sera doté d'un système rotatif ou de celui des essuies glace.
 ### (18/03/24) 
-Après avoir rencontre des problèmes avec le contrôle de 6 moteurs, il fu décidé de n'utiliser que 2 moteurs pour les roues arrière et les 2 autres pour les disques de nettoyages; les roues avant seront juste des roues folle.
+Après avoir rencontré  des problèmes avec le contrôle de 6 moteurs, il fu décidé de n'utiliser que 2 moteurs pour les roues arrière et les 2 autres pour les disques de nettoyages; les roues avant seront juste des roues folle.
 ### (19/03/24)
 Nous avons commencer à tester les circuits avec les capteurs à ultrasons et des moteurs avec le shield L293D
 ![WhatsApp Image 2024-03-20 à 01 10 45_f5a0f736](https://github.com/MicoqE/PULITOR/assets/124099112/ab63b6a5-475d-4187-9545-e1cb816292af)
