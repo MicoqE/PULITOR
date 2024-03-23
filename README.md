@@ -25,6 +25,10 @@ Nous avons été confrontés suite a cela a certains problèmes comme : la forme
 ![IMG-20240319-WA0002](https://github.com/MicoqE/PULITOR/assets/124099112/7dc76939-a493-4b33-a25e-3e57c6e45b39)
 
 ## Avancement du projet 
+##REPARTITION DES TACHES 
+Après avoir  défini nos objectifs et ce dont on aura besoin pour les réaliser, il était  temps de répartir  le travail afin qu'il soit réaliser . Nous avions donc des groupe .après , nous avons eu à discuter tous les cinq afin d'harmoniser nos travaux de  s'entraider et de s'échanger des conseils.
+![WhatsApp Image 2024-03-23 à 13 48 49_8326a76c](https://github.com/MicoqE/PULITOR/assets/162813944/7096c59a-bcbe-4549-9f12-6ffab2efd97d)
+
 ### (16/03/24) 
 Étant confronté a des obstacles le robot sera donc un robot nettoyeur usant d'un moteur DC 3-6v et d'un contrôleur puisqu il offre une plus grande vitesse et une puissance a défaut de la précision fourni par le servomoteur. Il sera doté d'un système rotatif ou de celui des essuies glace.
 ### (18/03/24) 
@@ -46,6 +50,7 @@ En ce qui concerne la modélisation de notre robot, nous avions mal pris certain
 Nous avons pousser les tests avec les capteurs à ultrason en réalisant les branchements avec 2 capteurs de plus.
 ![WhatsApp Image 2024-03-23 à 08 23 36_c86801af](https://github.com/MicoqE/PULITOR/assets/124099112/57f8f8e2-5232-4df0-9480-ff19ced3373f)
 Par la suite, nous avons constater qu'un microcontrôleur du shield ne fonctionnait pas et on a dû le faire remplacer.
+
 ### (22/03/24)
 Après avoir reçu le nouveau microcontrôleur, nous avons relancer les tests avec les moteurs et tout marchait correctement. Au même moment, nous avons lancer l'impression du corps de notre robot.
 ![WhatsApp Image 2024-03-23 à 09 31 43_82fb5141](https://github.com/MicoqE/PULITOR/assets/162813944/2460e84b-1c8b-4bf9-aedc-62bc5663f6e5)
@@ -65,6 +70,16 @@ https://github.com/MicoqE/PULITOR/assets/162813944/cd232e67-9ef4-480d-9d1b-43219
 |                         |                        | - 3 Capteur à ultrason : HC-SR04 |
 |                         |                        | - Alimentation : Battérie        |
 |                         |                        | - Corps du robot : Filament PLA  |
+
+
+## les matériaux 
+
+![téléchargement (3)](https://github.com/MicoqE/PULITOR/assets/162813944/365bc97f-0880-4f14-959e-20f6ba1d3aaf)
+![téléchargement (1)](https://github.com/MicoqE/PULITOR/assets/162813944/cc45fbe4-6767-4992-8438-b3978ad47f84)
+![téléchargement](https://github.com/MicoqE/PULITOR/assets/162813944/acdcab1d-8a29-4e2f-939a-6d33f58a5814)
+![téléchargement (2)](https://github.com/MicoqE/PULITOR/assets/162813944/fc590e2e-36aa-463d-a9a3-9046d9aaf8c5)
+
+
 ## Plan (Chronologiquement)
 ### 1.
 ![WhatsApp Image 2024-03-16 à 14 24 07_cf5e810d](https://github.com/MicoqE/PULITOR/assets/162813944/abda3ef3-13f0-4975-b852-6410e8e59807)
