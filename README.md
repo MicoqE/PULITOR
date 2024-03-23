@@ -94,34 +94,22 @@ https://github.com/MicoqE/PULITOR/assets/162813944/cd232e67-9ef4-480d-9d1b-43219
 ![IMG-20240319-WA0003](https://github.com/MicoqE/PULITOR/assets/124099112/555f11ef-13fa-4b75-9a8b-7e788d38cede)
 ### 5.
 ![IMG-20240319-WA0002](https://github.com/MicoqE/PULITOR/assets/124099112/ca43becb-10c5-45d4-83aa-b7da1a658441)
-## les avant derniers test 
 
+## Les derniers tests 
 ![WhatsApp Image 2024-03-23 à 14 30 18_658b966b](https://github.com/MicoqE/PULITOR/assets/162813944/858ddcb8-f060-4898-856c-17b134e6e650)
 ![WhatsApp Image 2024-03-23 à 14 30 25_2f700327](https://github.com/MicoqE/PULITOR/assets/162813944/917452a3-accb-4643-b7ef-788074fd8fe4)
 
-
-
 https://github.com/MicoqE/PULITOR/assets/162813944/8b2146e0-9ac3-4c6a-9c47-6fd2cb29dac8
-
-
-
 
 https://github.com/MicoqE/PULITOR/assets/162813944/f4486004-dce6-4548-a200-3348ba6bd10a
 
+## Les différents liens dont on a eu besoin 
 
+Pour apprendre à commander les moteurs avec le shield L293D :
+https://www.robotique.tech/tutoriel/commander-4-moteurs-par-larduino-et-le-module-shield-l293d/#google_vignette
 
-
-
-
-
-
-
-
-##les differents liens dont on a eu besoin 
-
-Pour apprendre à commander les moteurs avec le shield L293D:https://www.robotique.tech/tutoriel/commander-4-moteurs-par-larduino-et-le-module-shield-l293d/#google_vignette
-
-Pour savoir comment utiliser les broches analogique comme des broches numérique à cause du manque de place sur la carte Arduino prise par le shield L293D:https://www.youtube.com/watch?v=jMTVi3SLJzE
+Pour savoir comment utiliser les broches analogiques comme des broches numériques à cause du manque de place sur la carte Arduino prise par le shield L293D :
+https://www.youtube.com/watch?v=jMTVi3SLJzE
 
 https://docs.sunfounder.com/projects/uno-mega-kit/en/latest/uno/ultrasonic_uno.html
 
@@ -129,9 +117,9 @@ https://www.youtube.com/watch?v=4jIB2ddUPck&list=PPSV
 
 https://www.youtube.com/watch?v=jMTVi3SLJzE
 
-## composition de groupe du groupe
+## Composition de groupe du groupe
 
-notre groupe est composé de 5 élèves en première année de prépa a ESEO:
+Notre groupe est composé de 5 élèves en première année de prépa à ESEO :
 - AKPAH Starker +228 96 92 99 19
 - BANIZA Emmanuel +228 90 90 57 10
 - COQUEREL Michel +228 97 50 84 90
