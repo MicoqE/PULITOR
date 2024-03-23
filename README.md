@@ -1,4 +1,4 @@
-# Pulitor
+   # Pulitor
 ![OIG2 9R49oIZJf](https://github.com/MicoqE/PULITOR/assets/124099112/1f0eecdb-3bdb-4c9f-8592-60874c8e613b)
 
 Dans le cadre de la préparation de l'Arduino's days 2024 au Lycée international cours lumière/ESEO nous avons eu à choisir un projet à réaliser.
@@ -57,23 +57,14 @@ https://github.com/MicoqE/PULITOR/assets/162813944/cd232e67-9ef4-480d-9d1b-43219
 
 
 
-## Fonctionnalité de bases 
-- Suivre des lignes
-- Éviter des obstacles
-- Ramasser des déchets
-
-## Fonctionnalités gardées
-- Nettoyage du sol
-- Éviter des obstacles
-
-## Liste des matériaux 
--Carte de commande :Arduino Uno 
-- 4 Moteurs: DC 3-6v
-- Shield : L293D
-- 3 Capteur à ultrason : HC-SR04
-- Alimentation : Battérie 
-- Corps du robot : Filament PLA
-
+| Fonctionnalité de bases | Fonctionnalités gardées| Liste des matériaux              |
+|-------------------------|------------------------|----------------------------------|
+|- Suivre des lignes      | - Nettoyage du sol     | -Carte de commande :Arduino Uno  |
+|- Éviter des obstacles   | - Éviter des obstacles | - 4 Moteurs : DC 3-6v            |
+|- Ramasser des déchets   |                        | - Bouclier : L293D               |
+|                         |                        | - 3 Capteur à ultrason : HC-SR04 |
+|                         |                        | - Alimentation : Battérie        |
+|                         |                        | - Corps du robot : Filament PLA  |
 ## Plan (Chronologiquement)
 ### 1.
 ![WhatsApp Image 2024-03-16 à 14 24 07_cf5e810d](https://github.com/MicoqE/PULITOR/assets/162813944/abda3ef3-13f0-4975-b852-6410e8e59807)
