@@ -53,6 +53,12 @@ Par la suite, nous avons constater qu'un microcontrôleur du shield ne fonctionn
 
 ### (22/03/24)
 Après avoir reçu le nouveau microcontrôleur, nous avons relancer les tests avec les moteurs et tout marchait correctement. Au même moment, nous avons lancer l'impression du corps de notre robot.
+![WhatsApp Image 2024-03-23 à 12 09 05_0d8cea7c](https://github.com/MicoqE/PULITOR/assets/162813944/4cafacd2-e01a-4056-9146-e9b01664b92c)
+![WhatsApp Image 2024-03-23 à 12 08 55_23a95cbd](https://github.com/MicoqE/PULITOR/assets/162813944/a1cc3b68-00dd-414e-9566-c3bc5dd27738)
+
+
+
+
 ![WhatsApp Image 2024-03-23 à 09 31 43_82fb5141](https://github.com/MicoqE/PULITOR/assets/162813944/2460e84b-1c8b-4bf9-aedc-62bc5663f6e5)
 
 
