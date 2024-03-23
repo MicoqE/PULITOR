@@ -8,6 +8,7 @@ A la suite de la première journée (Samedi 09 mars 2024) , nous avions donc eu 
 * Un feu tricolore bloqueur
 * Un arroseur automatique
 * Un robot nettoyeur
+
 ![WhatsApp Image 2024-03-21 à 18 01 02_dea93830](https://github.com/MicoqE/PULITOR/assets/162813944/f1114fd0-c2e6-4f1a-9b13-bf65a3d8975f)
 
 Après plusieurs heures de discutions nous nous sommes donc finalement entendus sur le robot nettoyeur dont le nom est PULITOR qui viens de l'italien et signifie "Netoyeur".
@@ -20,20 +21,26 @@ Nous avons été confrontés suite a cela a certains problèmes comme : la forme
 ![WhatsApp Image 2024-03-16 à 13 57 22_18ca7ea2](https://github.com/MicoqE/PULITOR/assets/162813944/97d1fa20-4bc4-41b5-8a4b-92372f3962b0)
 ![WhatsApp Image 2024-03-16 à 14 20 46_e20fb014](https://github.com/MicoqE/PULITOR/assets/162813944/9809015b-4548-48a0-9293-bbb72fa1548b)
 
-### Version finale
+### Prototype finale
 ![IMG-20240319-WA0002](https://github.com/MicoqE/PULITOR/assets/124099112/7dc76939-a493-4b33-a25e-3e57c6e45b39)
 
 ## Avancement du projet 
 ### (16/03/24) 
 Étant confronté a des obstacles le robot sera donc un robot nettoyeur usant d'un moteur DC 3-6v et d'un contrôleur puisqu il offre une plus grande vitesse et une puissance a défaut de la précision fourni par le servomoteur. Il sera doté d'un système rotatif ou de celui des essuies glace.
 ### (18/03/24) 
-Après avoir rencontre des problèmes avec le contrôle de 6 moteurs, il fu décidé de n'utiliser que 2 moteurs pour les roues arrière et les 2 autres pour les disques de nettoyages; les roues avant seront juste des roues fol.
+Après avoir rencontre des problèmes avec le contrôle de 6 moteurs, il fu décidé de n'utiliser que 2 moteurs pour les roues arrière et les 2 autres pour les disques de nettoyages; les roues avant seront juste des roues folle.
 ### (19/03/24)
 Nous avons commencer à tester les circuits avec les capteurs à ultrasons et des moteurs avec le shield L293D
 ![WhatsApp Image 2024-03-20 à 01 10 45_f5a0f736](https://github.com/MicoqE/PULITOR/assets/124099112/ab63b6a5-475d-4187-9545-e1cb816292af)
 ![WhatsApp Image 2024-03-20 à 01 10 45_176bb9a8](https://github.com/MicoqE/PULITOR/assets/124099112/bdfd6237-e22c-431c-8ef6-063a2c25232d)
 ![WhatsApp Image 2024-03-20 à 01 10 46_91b5dc45](https://github.com/MicoqE/PULITOR/assets/124099112/f725da0a-bfd1-4c8c-8ea5-1a5ecedecdf0)
-
+En ce qui concerne la modélisation de notre robot, nous avions mal pris certaines mesures qui n’ont pas été accepter par l'imprimante 3D donc nous avions dû faire beaucoup de modifications qui nous ont pris énormément de temps.
+### (21/03/24) 
+Nous avons pousser les tests avec les capteurs à ultrason en réalisant les branchements avec 2 capteurs de plus.
+![WhatsApp Image 2024-03-23 à 08 23 36_c86801af](https://github.com/MicoqE/PULITOR/assets/124099112/57f8f8e2-5232-4df0-9480-ff19ced3373f)
+Par la suite, nous avons constater qu'un microcontrôleur du shield ne fonctionnait pas et on a dû le faire remplacer.
+### (22/03/24)
+Après avoir reçu le nouveau microcontrôleur, nous avons relancer les tests avec les moteurs et tout marchait correctement. Au même moment, nous avons lancer l'impression du corps de notre robot.
 
 ## Fonctionnalité de bases 
 - Suivre des lignes
@@ -72,4 +79,4 @@ Nous avons commencer à tester les circuits avec les capteurs à ultrasons et de
 - GOUDOU Ariel +228 97 16 92 49
 
 ## Lien vers le dépôt Github
-https://github.com/MicoqE/PULITOR.git 
+https://github.com/MicoqE/PULITOR.git
