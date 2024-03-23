@@ -56,9 +56,6 @@ Après avoir reçu le nouveau microcontrôleur, nous avons relancer les tests av
 ![WhatsApp Image 2024-03-23 à 12 09 05_0d8cea7c](https://github.com/MicoqE/PULITOR/assets/162813944/4cafacd2-e01a-4056-9146-e9b01664b92c)
 ![WhatsApp Image 2024-03-23 à 12 08 55_23a95cbd](https://github.com/MicoqE/PULITOR/assets/162813944/a1cc3b68-00dd-414e-9566-c3bc5dd27738)
 
-
-
-
 ![WhatsApp Image 2024-03-23 à 09 31 43_82fb5141](https://github.com/MicoqE/PULITOR/assets/162813944/2460e84b-1c8b-4bf9-aedc-62bc5663f6e5)
 
 
@@ -97,6 +94,28 @@ https://github.com/MicoqE/PULITOR/assets/162813944/cd232e67-9ef4-480d-9d1b-43219
 ![IMG-20240319-WA0003](https://github.com/MicoqE/PULITOR/assets/124099112/555f11ef-13fa-4b75-9a8b-7e788d38cede)
 ### 5.
 ![IMG-20240319-WA0002](https://github.com/MicoqE/PULITOR/assets/124099112/ca43becb-10c5-45d4-83aa-b7da1a658441)
+## les avant derniers test 
+
+![WhatsApp Image 2024-03-23 à 14 30 18_658b966b](https://github.com/MicoqE/PULITOR/assets/162813944/858ddcb8-f060-4898-856c-17b134e6e650)
+![WhatsApp Image 2024-03-23 à 14 30 25_2f700327](https://github.com/MicoqE/PULITOR/assets/162813944/917452a3-accb-4643-b7ef-788074fd8fe4)
+
+
+
+https://github.com/MicoqE/PULITOR/assets/162813944/8b2146e0-9ac3-4c6a-9c47-6fd2cb29dac8
+
+
+
+
+https://github.com/MicoqE/PULITOR/assets/162813944/f4486004-dce6-4548-a200-3348ba6bd10a
+
+
+
+
+
+
+
+
+
 
 ##les differents liens dont on a eu besoin 
 
