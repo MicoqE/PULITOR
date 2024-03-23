@@ -25,7 +25,7 @@ Nous avons été confrontés suite a cela a certains problèmes comme : la forme
 ![IMG-20240319-WA0002](https://github.com/MicoqE/PULITOR/assets/124099112/7dc76939-a493-4b33-a25e-3e57c6e45b39)
 
 ## Avancement du projet 
-##REPARTITION DES TACHES 
+### REPARTITION DES TACHES 
 Après avoir  défini nos objectifs et ce dont on aura besoin pour les réaliser, il était  temps de répartir  le travail afin qu'il soit réaliser . Nous avions donc des groupe .après , nous avons eu à discuter tous les cinq afin d'harmoniser nos travaux de  s'entraider et de s'échanger des conseils.
 ![WhatsApp Image 2024-03-23 à 13 48 49_8326a76c](https://github.com/MicoqE/PULITOR/assets/162813944/7096c59a-bcbe-4549-9f12-6ffab2efd97d)
 
