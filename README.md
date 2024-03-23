@@ -36,6 +36,12 @@ Nous avons commencer à tester les circuits avec les capteurs à ultrasons et de
 ![WhatsApp Image 2024-03-20 à 01 10 46_91b5dc45](https://github.com/MicoqE/PULITOR/assets/124099112/f725da0a-bfd1-4c8c-8ea5-1a5ecedecdf0)
 
 En ce qui concerne la modélisation de notre robot, nous avions mal pris certaines mesures qui n’ont pas été accepter par l'imprimante 3D donc nous avions dû faire beaucoup de modifications qui nous ont pris énormément de temps.
+![WhatsApp Image 2024-03-23 à 09 56 50_966eb4ce](https://github.com/MicoqE/PULITOR/assets/162813944/d82f9309-f831-456a-9a77-dd3adac3aed1)
+
+![WhatsApp Image 2024-03-23 à 09 56 51_501fe65d](https://github.com/MicoqE/PULITOR/assets/162813944/f3459701-bb76-43a9-b944-7ab58f938a4b)
+
+
+
 ### (21/03/24) 
 Nous avons pousser les tests avec les capteurs à ultrason en réalisant les branchements avec 2 capteurs de plus.
 ![WhatsApp Image 2024-03-23 à 08 23 36_c86801af](https://github.com/MicoqE/PULITOR/assets/124099112/57f8f8e2-5232-4df0-9480-ff19ced3373f)
