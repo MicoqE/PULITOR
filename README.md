@@ -34,6 +34,7 @@ Nous avons commencer à tester les circuits avec les capteurs à ultrasons et de
 ![WhatsApp Image 2024-03-20 à 01 10 45_f5a0f736](https://github.com/MicoqE/PULITOR/assets/124099112/ab63b6a5-475d-4187-9545-e1cb816292af)
 ![WhatsApp Image 2024-03-20 à 01 10 45_176bb9a8](https://github.com/MicoqE/PULITOR/assets/124099112/bdfd6237-e22c-431c-8ef6-063a2c25232d)
 ![WhatsApp Image 2024-03-20 à 01 10 46_91b5dc45](https://github.com/MicoqE/PULITOR/assets/124099112/f725da0a-bfd1-4c8c-8ea5-1a5ecedecdf0)
+
 En ce qui concerne la modélisation de notre robot, nous avions mal pris certaines mesures qui n’ont pas été accepter par l'imprimante 3D donc nous avions dû faire beaucoup de modifications qui nous ont pris énormément de temps.
 ### (21/03/24) 
 Nous avons pousser les tests avec les capteurs à ultrason en réalisant les branchements avec 2 capteurs de plus.
@@ -41,6 +42,14 @@ Nous avons pousser les tests avec les capteurs à ultrason en réalisant les bra
 Par la suite, nous avons constater qu'un microcontrôleur du shield ne fonctionnait pas et on a dû le faire remplacer.
 ### (22/03/24)
 Après avoir reçu le nouveau microcontrôleur, nous avons relancer les tests avec les moteurs et tout marchait correctement. Au même moment, nous avons lancer l'impression du corps de notre robot.
+![WhatsApp Image 2024-03-23 à 09 31 43_82fb5141](https://github.com/MicoqE/PULITOR/assets/162813944/2460e84b-1c8b-4bf9-aedc-62bc5663f6e5)
+
+
+https://github.com/MicoqE/PULITOR/assets/162813944/cd232e67-9ef4-480d-9d1b-432195286215
+
+
+
+
 
 ## Fonctionnalité de bases 
 - Suivre des lignes
@@ -52,9 +61,10 @@ Après avoir reçu le nouveau microcontrôleur, nous avons relancer les tests av
 - Éviter des obstacles
 
 ## Liste des matériaux 
-- Carte de commande : Arduino Uno
-- 4 Moteurs DC 3-6v
-- Shield L293D
+
+- Carte de commande :Arduino Uno
+- 4 Moteurs: DC 3-6v
+- Shield : L293D
 - 3 Capteur à ultrason : HC-SR04
 - Alimentation : Battérie 
 - Corps du robot : Filament PLA
@@ -71,7 +81,21 @@ Après avoir reçu le nouveau microcontrôleur, nous avons relancer les tests av
 ### 5.
 ![IMG-20240319-WA0002](https://github.com/MicoqE/PULITOR/assets/124099112/ca43becb-10c5-45d4-83aa-b7da1a658441)
 
-## Membres du groupe
+##les differents liens dont on a eu besoin 
+
+Pour apprendre à commander les moteurs avec le shield L293D:https://www.robotique.tech/tutoriel/commander-4-moteurs-par-larduino-et-le-module-shield-l293d/#google_vignette
+
+Pour savoir comment utiliser les broches analogique comme des broches numérique à cause du manque de place sur la carte Arduino prise par le shield L293D:https://www.youtube.com/watch?v=jMTVi3SLJzE
+
+https://docs.sunfounder.com/projects/uno-mega-kit/en/latest/uno/ultrasonic_uno.html
+
+https://www.youtube.com/watch?v=4jIB2ddUPck&list=PPSV
+
+https://www.youtube.com/watch?v=jMTVi3SLJzE
+
+## composition de groupe du groupe
+
+notre groupe est composé de 5 élèves en première année de prépa a ESEO:
 - AKPAH Starker +228 96 92 99 19
 - BANIZA Emmanuel +228 90 90 57 10
 - COQUEREL Michel +228 97 50 84 90
