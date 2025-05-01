@@ -120,11 +120,11 @@ https://www.youtube.com/watch?v=jMTVi3SLJzE
 ## Composition de groupe du groupe
 
 Notre groupe est composé de 5 élèves en première année de prépa à ESEO :
-- AKPAH Starker +228 96 92 99 19
-- BANIZA Emmanuel +228 90 90 57 10
-- COQUEREL Michel +228 97 50 84 90
-- de Souza Naomie +228 97 70 57 54
-- GOUDOU Ariel +228 97 16 92 49
+- AKPAH Starker 
+- BANIZA Emmanuel 
+- COQUEREL Michel 
+- de Souza Naomie 
+- GOUDOU Ariel 
 
 ## Lien vers le dépôt Github
 https://github.com/MicoqE/PULITOR.git
